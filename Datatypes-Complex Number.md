@@ -23,7 +23,7 @@ print(x.imag)
 ```
 ## Output
 
-<img width="714" height="186" alt="439812683-4dec4744-2e3a-4267-abc5-70b8b535787d" src="https://github.com/user-attachments/assets/0ff50347-4c3c-49d0-a1d2-00849ec74919" />
+<img width="797" height="252" alt="image" src="https://github.com/user-attachments/assets/e3d2eeba-c0c5-4d13-8bae-bc98c0b7041c" />
 
 ## Result
 Thus the prgram has been successfully executed.
